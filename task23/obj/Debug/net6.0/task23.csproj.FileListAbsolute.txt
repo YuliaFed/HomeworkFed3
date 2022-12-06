@@ -1,0 +1,15 @@
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\bin\Debug\net6.0\task23.exe
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\bin\Debug\net6.0\task23.deps.json
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\bin\Debug\net6.0\task23.dll
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\bin\Debug\net6.0\task23.pdb
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.dll
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\refint\task23.dll
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.pdb
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+C:\Users\yulia\OneDrive\Рабочий стол\Обучение\введение в языки программирования\HomeworkFed3\task23\obj\Debug\net6.0\ref\task23.dll
